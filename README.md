@@ -14,7 +14,7 @@
 
 [Lab 2 23.02: Lab Matplotlib - Evolução dos dados)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Matplotlib.ipynb)
 
-> `plot`,`linestyle`,`color`,`linewidth`,`title`,`xlabel`,`legend` 
+> `plot`,`linestyle`,`color`,`linewidth`,`title`,`xlabel`,`legend`, `np.arange()`, `np.linspace()`, normalização dos dados
 
 [Lab 3 01.03: Lab Matplotlib - Distribuição dos dados](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Matplotlib_02.ipynb)
 
