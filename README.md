@@ -13,6 +13,7 @@
 > Colab, markdown, `from google.colab import files, drive`
 
 [Lab 2 23.02: Lab Matplotlib - Evolução dos dados)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Matplotlib.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Matplotlib_solucao.ipynb)
 
 > `plot`,`linestyle`,`color`,`linewidth`,`title`,`xlabel`,`legend`, `np.arange()`, `np.linspace()`, normalização dos dados
 
