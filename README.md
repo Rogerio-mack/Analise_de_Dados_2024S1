@@ -22,6 +22,6 @@
 
 > `hist`,`density`,`script layer`,`artist layer`,`subplots`
 
-* [Lab Avaliativo 1A](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A1_analise2024S1_B.ipynb) *(RA par)*
+* [Lab Avaliativo 1A](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A1_analise2024S1_A.ipynb) *(RA par)*
 
 * [Lab Avaliativo 1B](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A1_analise2024S1_B.ipynb) *(RA ímpar)*
