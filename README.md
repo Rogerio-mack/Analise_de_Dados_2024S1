@@ -18,5 +18,10 @@
 > `plot`,`linestyle`,`color`,`linewidth`,`title`,`xlabel`,`legend`, `np.arange()`, `np.linspace()`, normalização dos dados
 
 [Lab 3 01.03: Lab Matplotlib - Distribuição dos dados](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Matplotlib_02.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Matplotlib_02_solucao.ipynb)
 
 > `hist`,`density`,`script layer`,`artist layer`,`subplots`
+
+* [Lab Avaliativo 1A](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A1_analise2024S1_B.ipynb) *RA par*
+
+* [Lab Avaliativo 1B](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A1_analise2024S1_B.ipynb) *RA ímpar*
