@@ -1,6 +1,6 @@
 # Análise de Dados
 
-### https://github.com/Rogerio-mack/Analise_de_Dados_2024S1
+Prof. Rogério
 
 <br>
 
