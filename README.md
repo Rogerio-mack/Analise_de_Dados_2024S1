@@ -40,7 +40,7 @@ Prof. Rogério
 
 > `bar`, `barplot`, intervalos de confiança
 
-[Lab 7 05.04 **Lab Avaliativo 2**]()
+[Lab 7 05.04 **Lab Avaliativo 2**](https://colab.research.google.com/github/Rogerio-mack/work_private/blob/main/Analise_A2_2024S1.ipynb)
 
 > Múltiplos gráficos em uma figura, `matplotlib` e `seaborn`, gráficos de linha, normalização, gráficos de distribuição (histograma, densidade, probabilidade acumulada, boxplot), *outliers*, gráficos de dispersão, `hue`, gráficos de barra, intervalos de confiança.
 
