@@ -45,3 +45,9 @@ Prof. Rogério
 
 > Múltiplos gráficos em uma figura, `matplotlib` e `seaborn`, gráficos de linha, normalização, gráficos de distribuição (histograma, densidade, probabilidade acumulada, boxplot), *outliers*, gráficos de dispersão, `hue`, gráficos de barra, intervalos de confiança.
 
+> Faça download das notas e comentários das atividades de Laboratório.
+ 
+>> [N1 Excel](https://github.com/Rogerio-mack/Analise_de_Dados_2024S1/raw/main/02G11%20Notas.xlsx) 
+
+> Havendo necessidade de revisão das notas procure o professor em sala.
+
