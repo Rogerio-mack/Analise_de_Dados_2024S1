@@ -48,7 +48,7 @@ Prof. Rogério
 [Click aqui para download das notas e comentários das atividades de Laboratório](https://github.com/Rogerio-mack/Analise_de_Dados_2024S1/raw/main/02G11%20Notas.xlsx) 
 > Havendo necessidade de revisão das notas procure o professor em sala.
 
-[Lab 7 12.04 Pandas](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Pandas1.ipynb)
+[Lab 7 12.04 Pandas 1](https://colab.research.google.com/drive/1BDYuAKMhd4cHjjjPFIFt1ZbTjifyGKDK?usp=sharing)
 
-> [Aula 20240412](https://colab.research.google.com/drive/1BDYuAKMhd4cHjjjPFIFt1ZbTjifyGKDK?usp=sharing)
+[Lab 8 19.04 Pandas 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Pandas1.ipynb)
 
