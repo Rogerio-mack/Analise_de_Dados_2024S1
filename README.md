@@ -50,5 +50,6 @@ Prof. Rogério
 
 [Lab 7 12.04 Pandas 1](https://colab.research.google.com/drive/1BDYuAKMhd4cHjjjPFIFt1ZbTjifyGKDK?usp=sharing)
 
-[Lab 8 19.04 Pandas 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Pandas1.ipynb)
+[Lab 8 19.04 Pandas 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Pandas1.ipynb) |
+[**Shared Solution**](https://colab.research.google.com/drive/11JCK3h3K1MQDM1ZlWhp818UxiTFO2O_I?usp=sharing) 
 
