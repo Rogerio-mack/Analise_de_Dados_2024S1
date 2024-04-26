@@ -53,3 +53,11 @@ Prof. Rogério
 [Lab 8 19.04 Pandas 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Pandas1.ipynb) |
 [**Shared Solution**](https://colab.research.google.com/drive/11JCK3h3K1MQDM1ZlWhp818UxiTFO2O_I?usp=sharing) 
 
+[Lab 9 26.04 **Lab Avaliativo 3**]()
+
+* [Lab Avaliativo 3 (RA PAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A3_analise2024S1_PAR.ipynb)
+
+* [Lab Avaliativo 3 (RA ÍMPAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A3_analise2024S1_IMPAR.ipynb)
+
+
+
