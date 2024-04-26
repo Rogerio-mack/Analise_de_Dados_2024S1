@@ -55,9 +55,9 @@ Prof. Rogério
 
 [Lab 9 26.04 **Lab Avaliativo 3**]()
 
-* [Lab Avaliativo 3 (RA PAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A3_analise2024S1_PAR.ipynb)
+* [Lab Avaliativo 3 (RA PAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A3_analise_2024S1_PAR.ipynb)
 
-* [Lab Avaliativo 3 (RA ÍMPAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A3_analise2024S1_IMPAR.ipynb)
+* [Lab Avaliativo 3 (RA ÍMPAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_A3_analise_2024S1_IMPAR.ipynb)
 
 
 
