@@ -59,5 +59,9 @@ Prof. Rogério
 
 * [Lab Avaliativo 3 (RA ÍMPAR)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Analise_A3_2024S1_IMPAR.ipynb)
 
+* [Solução](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Analise_A3_2024S1_solucao.ipynb)
+
+[Lab 10 03.05 **Numpy**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2024S1/blob/main/Lab_Numpy.ipynb)
+
 
 
